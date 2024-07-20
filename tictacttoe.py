@@ -4,7 +4,7 @@ from tkinter import messagebox
 window = tk.Tk()
 window.title("Tic Tac Toe")
 
-# Create board
+# Create board 222
 def create_board():
     for i in range(3):
         for j in range(3):
